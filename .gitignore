@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated Artifacts
+serialized_indexes/
+results_*.csv
+plots/
+*.png
+*.pkl
+*.docx

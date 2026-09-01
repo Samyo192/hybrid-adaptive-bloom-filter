@@ -1,8 +1,0 @@
-Dataset,TXT_Size_MB,PKL_Size_MB,Compression_Ratio
-ODS-french,4.381,0.631,6.95
-enable,1.663,0.336,4.95
-german,28.68,2.565,11.18
-italian,0.979,0.202,4.85
-sowpods,2.582,0.475,5.43
-synthetic_skewed,1.442,0.817,1.77
-twl,1.681,0.344,4.88
