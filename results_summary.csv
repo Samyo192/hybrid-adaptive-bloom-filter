@@ -1,0 +1,6 @@
+Method,Buckets,Memory(MiB),FPR,MaxBucket,BuildTime(ms)
+Baseline_L3,3106,0.204,0.005,1881,2220.3
+AdaptivePrefix,3289,0.204,0.0034,1643,2361.7
+SkipSmall,3106,0.199,0.0012,1881,2389.5
+AdaptiveP,3106,0.205,0.0084,1881,2284.8
+Hybrid,3289,0.198,0.0032,1643,2162.2

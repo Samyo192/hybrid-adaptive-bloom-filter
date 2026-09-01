@@ -1,0 +1,8 @@
+Dataset,Cold_Start_Build_ms,Warm_Start_Load_ms,Reduction_Factor
+ODS-french,1973.7,7.67,257.46
+enable,811.9,18.31,44.35
+german,10998.2,25.35,433.89
+italian,449.3,14.33,31.35
+sowpods,1753.7,16.33,107.4
+synthetic_skewed,523.4,26.99,19.39
+twl,917.4,4.01,228.72
