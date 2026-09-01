@@ -13,10 +13,9 @@ env/
 .vscode/
 .idea/
 
-# Generated Artifacts
+# Generated Artifacts & Benchmarks
 serialized_indexes/
-results_*.csv
 plots/
 *.png
 *.pkl
-*.docx
+*.csv
